@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT qualified (candidate*)>
+<!ELEMENT candidate (name)>
+<!ATTLIST candidate rid CDATA #REQUIRED
+                    numskills CDATA #REQUIRED
+                    citizenzhip CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE interviews SYSTEM "interview.dtd">
+<interviews>
+    <interview rID="R001" pID="P005" sID="S001">
+        <date> "2017-04-01" </date>
+        <time> "10:00" </time>
+        <location> "101 Harbord Street, Toronto" </location>
+        <assessment>
+            <answers>
+                <answer qID="q1">
+                    "Because I made pizza my entire life"
+                </answer>
+                <answer qID="q4">
+                    "Of course!"
+                </answer>
+            </answers>
+            <techProficiency> "66" </techProficiency>
+            <communication> "70" </communication>
+            <enthusiasm> "92" </enthusiasm>
+            <collegiality> "2" </collegiality>
+        </assessment>
+    </interview>
+    <interview rID="R002" pID="P003" sID="S002">
+        <date> "2017-04-22" </date>
+        <time> "15:45" </time>
+        <location> "40 St. George Street, Toronto" </location>
+        <assessment>
+            <answers>
+                <answer qID="q1">
+                    "Becasue I am smart"
+                </answer>
+                <answer qID="q2">
+                    "[1, 2, 3, 100]"
+                </answer>
+            </answers>
+            <techProficiency> "88" </techProficiency>
+            <communication> "62" </communication>
+            <enthusiasm> "77" </enthusiasm>
+            <collegiality> "58" </collegiality>
+        </assessment>
+    </interview>
+    <interviewer sID="S001">
+        <forename> "John" </forename>
+        <surname> "Smith" </surname>
+        <honorific> "Mr." </honorific>
+        <title> "Chief Chef" </title>
+    </interviewer>
+    <interviewer sID="S002">
+        <forename> "Mark" </forename>
+        <surname> "Tian" </surname>
+        <honorific> "Professor" </honorific>
+        <title> "Senior Sofware Engineer" </title>
+    </interviewer>
+</interviews>

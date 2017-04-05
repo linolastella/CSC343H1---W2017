@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT bestskills (best*)>
+<!ELEMENT best (techProficiency | communication | enthusiasm | collegiality)>
+<!ELEMENT techProficiency (#PCDATA)>
+<!ELEMENT communication (#PCDATA)>
+<!ELEMENT enthusiasm (#PCDATA)>
+<!ELEMENT collegiality (#PCDATA)>
+<!ATTLIST best resume CDATA #REQUIRED
+               position CDATA #REQUIRED>

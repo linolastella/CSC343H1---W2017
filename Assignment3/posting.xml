@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE postings SYSTEM "posting.dtd">
+<postings>
+    <posting pID="P001">
+        <position>
+            "Database Expert"
+        </position>
+        <reqSkill what="SQL" importance="3" level="5"/>
+        <questions>
+            <question qID="q1">
+                "Why should we hire you?"
+            </question>
+        </questions>
+    </posting>
+    <posting pID="P002">
+        <position>
+            "Backend Developer"
+        </position>
+        <reqSkill what="Python" importance="5" level="4"/>
+        <questions>
+            <question qID="q1">
+                "Why should we hire you?"
+            </question>
+            <question qID="q2">
+                "What does the following code snippet print?
+                 L1 = [1, 2, 3]
+                 L2 = L1
+                 L1.append(100)
+                 L2"
+            </question>
+        </questions>
+    </posting>
+    <posting pID="P003">
+        <position>
+            "Software Engineer"
+        </position>
+        <reqSkill what="Scheme" importance="3" level="2"/>
+        <reqSkill what="Python" importance="4" level="4"/>
+        <reqSkill what="LaTeX" importance="1" level="3"/>
+        <questions>
+            <question qID="q1">
+                "Why should we hire you?"
+            </question>
+            <question qID="q3">
+                "When is it appropriate to use an anonymous function?"
+            </question>
+        </questions>
+    </posting>
+    <posting pID="P004">
+        <position>
+            "Data Analyst"
+        </position>
+        <reqSkill what="R" importance="5" level="5"/>
+        <questions>
+            <question qID="q1">
+                "Why should we hire you?"
+            </question>
+        </questions>
+    </posting>
+    <posting pID="P005">
+        <position>
+            "Executive Chef"
+        </position>
+        <reqSkill what="LaTeX" importance="1" level="1"/>
+        <questions>
+            <question qID="q1">
+                "Why should we hire you?"
+            </question>
+            <question qID="q4">
+                "Can you cook?"
+            </question>
+        </questions>
+    </posting>
+</postings>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT histogram (skill*)>
+<!ELEMENT skill (count+)>
+<!ATTLIST skill name CDATA #REQUIRED>
+<!ELEMENT count EMPTY>
+<!ATTLIST count level CDATA #REQUIRED>
+<!ATTLIST count n CDATA #REQUIRED>

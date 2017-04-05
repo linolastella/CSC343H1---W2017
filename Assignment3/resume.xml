@@ -1,0 +1,182 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE resumes SYSTEM "resume.dtd">
+<resumes>
+    <resume rID="R002">
+        <summary>
+            "I am a smart computer science student."
+        </summary>
+        <identification>
+            <name>
+                <forename> "Vinsen" </forename>
+                <surname> "Guo" </surname>
+                <honorific> "Mr." </honorific>
+                <title> "Software Engineer" </title>
+            </name>
+            <DOB> "1996-11-18" </DOB>
+            <citizenship> "Indonesian" </citizenship>
+            <address> "81 St. Mary Street, Toronto" </address>
+            <telephone> "111-222-3333" </telephone>
+            <email> "vinsen.guo@mail.utoronto.ca" </email>
+        </identification>
+        <education>
+            <degree level="undergraduate">
+                <degreeName> "Bachelor of Science" </degreeName>
+                <institution> "University of Toronto" </institution>
+                <major> "Computer Science" </major>
+                <minor> "Statistics" </minor>
+                <minor> "Mathematics" </minor>
+                <honours/>
+                <period>
+                    <startDate> "2014-09-10" </startDate>
+                    <endDate> "2019-08-21" </endDate>
+                </period>
+            </degree>
+        </education>
+        <experience>
+            <position where="Northcloud">
+                <title> "Software Developer" </title>
+                <description> "PEY experience" </description>
+                <period>
+                    <startDate> "2017-05-02" </startDate>
+                    <endDate> "2018-08-30" </endDate>
+                </period>
+            </position>
+        </experience>
+        <skills>
+            <skill what="LaTeX" level="4"/>
+            <skill what="Python" level="5"/>
+            <skill what="Scheme" level="4"/>
+            <skill what="R" level="2"/>
+        </skills>
+    </resume>
+    <resume rID="R001">
+        <summary>
+            "I am an enironment studies major from Ottawa."
+        </summary>
+        <identification>
+            <name>
+                <forename> "Wesley" </forename>
+                <surname> "Mann" </surname>
+                <honorific> "Mr." </honorific>
+                <title> "Executive Chef" </title>
+            </name>
+            <DOB> "1996-07-22" </DOB>
+            <citizenship> "Canadian" </citizenship>
+            <address> "457 Beban Avenue, Ottawa" </address>
+            <telephone> "111-222-3333" </telephone>
+            <email> "wesley.mann@mail.ryerson.ca" </email>
+        </identification>
+        <education>
+            <degree level="undergraduate">
+                <degreeName> "Bachelor of Science" </degreeName>
+                <institution> "Ryerson University" </institution>
+                <major> "Environmental Studies" </major>
+                <minor> "Spanish" </minor>
+                <honours/>
+                <period>
+                    <startDate> "2014-09-01" </startDate>
+                    <endDate> "2018-04-30" </endDate>
+                </period>
+            </degree>
+        </education>
+        <experience>
+            <position where="Pizza Pizza">
+                <title> "Special events department cook" </title>
+                <description> "Charge of making pizza" </description>
+                <period>
+                    <startDate> "2012-10-02" </startDate>
+                    <endDate> "2014-05-30" </endDate>
+                </period>
+            </position>
+            <position where="Zazas">
+                <title> "Cook" </title>
+                <description>
+                    "Charge of making sure food is ready in time, cooking pizza"
+                </description>
+                <period>
+                    <startDate> "2013-09-02" </startDate>
+                    <endDate> "2013-11-12" </endDate>
+                </period>
+            </position>
+            <position where="Casadea estates winery and cucina">
+                <title> "Cook" </title>
+                <description>
+                    "Preparing food for customer and mantaining place clean"
+                </description>
+                <period>
+                    <startDate> "2015-05-12" </startDate>
+                    <endDate> "2015-08-29" </endDate>
+                </period>
+            </position>
+            <position where="Joe Bidali's bar and cucina">
+                <title> "Cook" </title>
+                <description>
+                    "Making pizza and calzone for a fine Italian restaurant
+                    downtown Toronto"
+                </description>
+                <period>
+                    <startDate> "2016-05-01" </startDate>
+                    <endDate> "2016-08-29" </endDate>
+                </period>
+            </position>
+        </experience>
+        <skills>
+            <skill what="LaTeX" level="1"/>
+        </skills>
+    </resume>
+    <resume rID="R003">
+        <summary>
+            "I am a physics student at UofT from Ottawa."
+        </summary>
+        <identification>
+            <name>
+                <forename> "Edward" </forename>
+                <surname> "Braden" </surname>
+                <honorific> "Mr." </honorific>
+                <title> "Research Intern" </title>
+            </name>
+            <DOB> "1996-02-22" </DOB>
+            <citizenship> "Canadian" </citizenship>
+            <address> "101 Harbord Street, Toronto" </address>
+            <telephone> "111-222-3333" </telephone>
+            <email> "edward.braden@mail.utoronto.ca" </email>
+        </identification>
+        <education>
+            <degree level="undergraduate">
+                <degreeName> "Bachelor of Science" </degreeName>
+                <institution> "University of Toronto" </institution>
+                <major> "Physics" </major>
+                <minor> "Mathematics" </minor>
+                <honours/>
+                <period>
+                    <startDate> "2014-09-11" </startDate>
+                    <endDate> "2018-04-25" </endDate>
+                </period>
+            </degree>
+        </education>
+        <experience>
+            <position where="Bagel shop">
+                <title> "Wood mover" </title>
+                <description> "Moving wood for the oven" </description>
+                <period>
+                    <startDate> "2011-10-11" </startDate>
+                    <endDate> "2011-12-30" </endDate>
+                </period>
+            </position>
+            <position where="Costco">
+                <title> "Stocking, free sampling" </title>
+                <description>
+                    "Food preparation for customers"
+                </description>
+                <period>
+                    <startDate> "2011-09-11" </startDate>
+                    <endDate> "2012-12-22" </endDate>
+                </period>
+            </position>
+        </experience>
+        <skills>
+            <skill what="R" level="2"/>
+            <skill what="Python" level="4"/>
+        </skills>
+    </resume>
+</resumes>
