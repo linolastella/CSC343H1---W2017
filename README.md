@@ -1,4 +1,10 @@
 # CSC343H1---W2017
 Introduction to Databases
 
-I am going to upload files here as they are ready. We worked on Relational Algebra for now, so no programming projects yet.
+Three assignments in this class:
+
+Assignment 1 -> Pure relational algebra
+
+Assignment 2 -> Querying in SQL and JDBC
+
+Assignment 3 -> SQL DDL, XQuery/XPath, E/R - modelling
