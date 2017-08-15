@@ -8,3 +8,5 @@ Assignment 1 -> Pure relational algebra
 Assignment 2 -> Querying in SQL and JDBC
 
 Assignment 3 -> SQL DDL, XQuery/XPath, E/R - modelling
+
+Instructor: [Diane Horton](http://www.cs.toronto.edu/~dianeh)
